@@ -1,0 +1,2 @@
+packages:
+  - { name: "mastodon", desc: "Pure-Go read client for the Mastodon REST API. CGO=0, zero third-party deps.", url: "https://github.com/go-mastodon/mastodon", doc: "https://pkg.go.dev/github.com/go-mastodon/mastodon" }

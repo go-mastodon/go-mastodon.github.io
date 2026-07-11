@@ -1,0 +1,4 @@
+baseURL = "https://go-mastodon.github.io/"
+languageCode = "en-us"
+title = "go-mastodon"
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
